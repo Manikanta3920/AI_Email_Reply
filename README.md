@@ -50,14 +50,6 @@ Render, Heroku, or Netlify (depending on frontend/backend setup)
 
 ---
 
-## 📸 Demo
-
-![Email Generator Screenshot](./screenshots/email-generator-ui.png)
-
-Or try it live: [Live Demo Link](#)
-
----
-
 ## ⚙️ Installation & Setup
 
 ### Prerequisites:
